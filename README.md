@@ -3,7 +3,8 @@
 
 ### install
 ```
-    npm i publish-sftp -D
+    sudo npm i publish-sftp -g
+    sudo npm link publish-sftp
 ```
 
 ### tips
@@ -23,7 +24,8 @@
 ```
 
 ### example
-![image](https://pic1.zhimg.com/80/v2-dd53b72bd33887e9f8289f6a34c09ff3_hd.png)
+![image](https://user-gold-cdn.xitu.io/2018/10/18/16687b0ddcd3a2a4?w=828&h=234&f=jpeg&s=48490)
+> 复制 localPath 下所有文件到 remotePath/xjx/test, -c 参数为空则是复制到 remotePath, 远程目录不存在会先创建
 
 ### copy
 > 复制 localPath 下所有文件到 remotePath 目录下, 如果 xxx 有值则是复制到 `${remotePath}/${xxx}` 目录
