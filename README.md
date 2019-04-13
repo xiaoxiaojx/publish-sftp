@@ -1,5 +1,5 @@
 # publish-sftp
-> sftp cli publish.
+> One-line command to quickly publish resources to a specified server.
 
 ### install
 ```
