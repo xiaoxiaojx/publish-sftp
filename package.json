@@ -1,6 +1,6 @@
 {
   "name": "publish-sftp",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "publish, sftp, ssh2, ssh, client",
   "keywords": ["sftp", "ftp", "sftp-cli", "ftp-cli", "ssh", "sftp-client"],
   "main": "index.js",
