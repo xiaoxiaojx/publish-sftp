@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pic4.zhimg.com/80/v2-94ccc424fced829ef5f52444b595ff82_1440w.png" width="200" alt="Logo" />
+  <img src="https://user-images.githubusercontent.com/23253540/131888591-5be715cb-6d87-4faa-aaf2-42714b1aaf10.png" width="200" alt="Logo" />
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
